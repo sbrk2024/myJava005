@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "kim.chinatelecom.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'kim.chinatelecom.jwtCookieName'"
+  },
+  {
+    "name": "kim.chinatelecom.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'kim.chinatelecom.jwtSecret'"
+  },
+  {
+    "name": "kim.chinatelecom.jwtExpirationMs",
+    "type": "java.lang.Integer",
+    "description": "A description for 'kim.chinatelecom.jwtSecret'"
+  }
+]}
